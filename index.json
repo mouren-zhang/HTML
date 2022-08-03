@@ -1,9 +1,9 @@
 {
-    "error":"200",
+    "error":"ok",
     "mpda":{
         "time":"",
-        "Version":1.0,
-        "title":"标题",
-        "text":["正文1","正文2"]
+        "Version":1.13,
+        "title":"版本更新",
+        "text":["+1.版本更新检查"]
     }
 }
