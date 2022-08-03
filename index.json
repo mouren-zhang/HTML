@@ -1,9 +1,9 @@
 {
-    "add_time(UTC+8)":"2022年8月3日15点09分",
+    "error":"200",
     "mpda":{
         "time":"",
         "Version":1.0,
-        "title":"",
-        "text":""
+        "title":"标题",
+        "text":["正文1","正文2"]
     }
 }
