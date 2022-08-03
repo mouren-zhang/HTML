@@ -1,4 +1,4 @@
 
-## 如果您不小心访问到这，那么您可以走了，因为这是一个让机器访问的项目  
+## 如果您不小心访问到这，那么您可以离开了，因为这是一个让机器人访问的项目
 
-## If you accidentally access this, you can go, as this is a machine-accessible project
+## If you visit this by accident, you can leave as this is a project for robots to visit 
