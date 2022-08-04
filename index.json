@@ -2,8 +2,8 @@
     "error":"ok",
     "mpda":{
         "time":"",
-        "Version":1.13,
+        "Version":1.14,
         "title":"版本更新",
-        "text":["+1.版本更新检查"]
+        "text":["修复BUG"]
     }
 }
